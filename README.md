@@ -17,3 +17,13 @@ Requests (for NewsAPI), NLTK (Text Preprocessing)
  Can be Deployed as a Streamlit Web App
  Can Send daily news reports via Email/WhatsApp
  Can Train a Deep Learning Model for better accuracy
+
+
+## Installation
+Clone the repository and install dependencies:
+```bash
+git clone https://github.com/Mayurij81/News_sentiment_Analysis.git
+cd your-repo-name
+pip install -r requirements.txt
+yaml
+
