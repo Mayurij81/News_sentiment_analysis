@@ -19,6 +19,12 @@ Requests (for NewsAPI), NLTK (Text Preprocessing)
  Can Train a Deep Learning Model for better accuracy
 
 
+ ## Output
+ 
+ 
+![Screenshot (72)](https://github.com/user-attachments/assets/33800c97-8d7c-4aa8-8ce9-883844d9bd6f)
+
+
 ## Installation
 Clone the repository and install dependencies:
 ```bash
